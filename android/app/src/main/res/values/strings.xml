@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">EasyLoan</string>
+    <string name="asset_statements">
+         [{
+         "include":"https://www.homecreditpk.com/.well-known/assetlinks.json"
+         }]
+    </string>
+
+    <!--    (：)-->
+    <string name="dialog_duration_default">200</string>
+    <string name="dialog_duration_scale">200</string>
+    <string name="dialog_duration_left">200</string>
+    <string name="dialog_duration_top">200</string>
+    <string name="dialog_duration_right">200</string>
+    <string name="dialog_duration_bottom">200</string>
+
+    <string name="permission_bottom_hint">Launched by Sarmaya Microfinance Private Limited licensed by SECP</string>
+
+    <string name="permission_hint">Please swipe to view all the content of agreement, and tick to agree before proceeding to the next step.</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="facebook_app_id">595232018331642</string>
+    <string name="fb_login_protocol_scheme">fb595232018331642</string>
+    <string name="fb_client_token">637640ac1a5c12bb8c96d434e3757d59</string>
+    <string name="branchkey">key_live_gl9yGsCcHgRge8Rc4YhlZapiusiomcQx</string>
+
+    <string name="call_wp">call records</string>
+    <string name="call_ml">If you authorize us to view the call records, we will provide you with a voice call for credit risk assessment to confirm that our application is installed on your mobile phone, and we will only download and transmit the call records to our server (https:/ /smpl.com.pk &#038; https://www.homecreditpk.com &#038; https://api2.branch.io/) to protect the online environment with your explicit consent. Under no circumstances will we share this data with third parties.</string>
+
+    <string name="phone_wp">Cell phone</string>
+    <string name="phone_ml">Your mobile number is used to confirm your identity and complete a risk assessment to assess the grant of the loan, we only obtain this information with your express consent, we will encrypt it using a secure data transfer protocol, we will not communicate with 3rd shared party party. When your assessment process is complete, your mobile number will be removed from the registry. Data will be encrypted and uploaded to our membership server https://smpl.com.pk &#038; https://www.homecreditpk.com &#038; https://api2.branch.io/ via HTTPS protocol. We will never share this data with third parties.</string>
+
+    <string name="location_wp">Place</string>
+    <string name="location_ml">We collect and monitor information about your device&quot;s location for customer analysis and fraud prevention, data will be encrypted and uploaded to our membership server via HTTPS protocol https://smpl.com.pk &#038; https://www.homecreditpk . com &#038; https://api2.branch.io/. We will never share this data with third parties.</string>
+
+    <string name="sms_wp">SMS data collection</string>
+    <string name="sms_ml">SMS content monitoring and collection: All SMS data will be encrypted and uploaded to the server through the APP, and we will collect all SMS data. SMS data will be encrypted and uploaded to our membership server via HTTPS protocol https://smpl.com.pk &#038; https://www.homecreditpk.com &#038; https://api2.branch.io/ We will never communicate with This communication data is shared with third parties.</string>
+
+<!--    <string name="contacts_wp">Collection of contact lists</string>-->
+<!--    <string name="contacts_ml">After the user logs in successfully, the user will obtain the address book permission after the user agrees, which is convenient for the user to quickly select a contact from the address book and automatically fill it in our APP. When a user fills in contact information, we upload data from the user&quot;s contact list, including name, phone number, account type, recently modified contact information, favorites, and other optional data, with the user&quot;s consent ( such as relationship and structure address), user&quot;s contact list data will be encrypted and uploaded to our membership server via protocol HTTPS https://smpl.com.pk &#038; https://www.homecreditpk.com &#038; https:// api2. branch.io/ We will never share this data with third parties. When the user does not have an order in progress, the user can apply for cancellation of the account, and we will delete all user information after the cancellation is successful.</string>-->
+
+    <string name="applications_wp">Gather information about installed applications</string>
+    <string name="applications_ml">Monitor and collect the content of installed applications: application name, application package name, application installation time, application installation time, data of installed applications will be encrypted and uploaded to us through HTTPS protocol https://smpl.com.pk. We will never share this data with third parties.</string>
+
+    <string name="mpf_wp">MEDIA &#38; PHOTOS &#38; FILES</string>
+    <string name="mpf_ml">We require the media, photos, and files permission that allows the App to enable you to upload photos or documents to complete the application form during your loan application journey. The calendar information will be uploaded to app.instantloan.space. We will delete the calendar information after we have determined your risk profile.</string>
+
+    <string name="storage_wp">Storage</string>
+    <string name="storage_ml">Access to your device&quot;s storage space requires your authorization, which will allow you to upload photos and/or documents to fill out the application form during the loan application process. Data will be encrypted and uploaded to our membership server https://smpl.com.pk &#038; https://www.homecreditpk.com &#038; https://api2.branch.io/ via HTTPS protocol. We will never share this data with third parties.</string>
+
+    <string name="camera_wp">camera</string>
+    <string name="camera_ml">Use a camera to take documents and/or photos required for the application and assessment process, and only with your express consent will we upload and transmit the contents of the call log in a secure online environment to (https://smpl. com.pk &#038; https://www.homecreditpk.com &#038; https://api2 ), we will never share this information with third party data.</string>
+
+    <string name="calendar_wp">Calendar</string>
+    <string name="calendar_ml">Enable calendar access when viewing your loan eligibility, reminding you of specific payment dates to avoid, data will be encrypted and uploaded to our HTTPS protocol https://smpl.com.pk and https://www.homecreditpk.com Membership Server &#038; https://api2.branch.io/ . We will never share this data with third parties.</string>
+
+    <string name="device_wp">COLLECTION OF DEVICE INFORMATION</string>
+    <string name="device_ml">The information the App collects, and how that information is used, depends on how you manage your privacy controls on your device.When you install the App, we store the information we collect with unique identifiers tied to the device you’re using.We collect information from the device when you download and install the App and explicitly seek permissions from YOU to get the required information from the device. The information we collect from your device includes the unique ID i.e. IMEI number, information on operating system, SDK version and mobile network information including carrier name, SIM Serial and SIM Slot, your profile information, list of installed apps, wi-fi information.We collect information about your device to provide automatic updates and additional security so that your account is not used in other people’s devices. In addition, the information provides us valuable feedback on your identity as a device holder as well as your device behaviour, thereby allowing us to improve our services and provide an enhanced customized user experience to you.</string>
+
+    <string name="other_wp">COLLECTION OF OTHER NON-PERSONAL INFORMATION</string>
+    <string name="other_ml">We automatically track certain information about you based upon your behaviour on our Platform. We use this information to do internal research on our users’ demographics, interests, and behaviour to better understand, protect and serve our users and improve our services. This information is compiled and analysed on an aggregated basis. We also collect your Internet Protocol (IP) address and the URL used by you to connect your computer to the internet, etc. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.Cookies are small data files that a Website stores on Your computer. We will use cookies on our Website similar to other lending websites / apps and online marketplace websites / apps. Use of this information helps Us identify You in order to make our Website more user friendly. Most browsers will permit You to decline cookies but if You choose to do this it might affect service on some parts of Our Website.If you choose to make a purchase through the Website, we collect information about your buying behaviour.We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we collect such information into a file specific to you.</string>
+
+    <string name="account_wp">Master account</string>
+    <string name="account_ml">Allow EASY LOAN to upload key user account information permissions for risk control assessment and provide you with pre-approved loan preferences. External encryption download https://smpl.com.pk &#038; https://www.homecreditpk.com &#038; https://api2.branch.io/ to identify and analyze their behavior and risk, which will help prevent fraud.</string>
+
+    <string name="ewrtkf_wp">USE AND DISCLOSURE OF YOUR PERSONAL AND OTHER INFORMATION</string>
+    <string name="ewrtkf_1">We access, store and use the information we collect from to provide our Services, to research and develop new ones.We use personal information to provide the services you request, to customize your user experience and to improve our services. To the extent we intent to use your personal information to market any product to you, we will provide you the ability to opt-out of such uses.</string>
+    <string name="ewrtkf_2">We use your personal information to:</string>
+    <string name="ewrtkf_a">a.Assist our business partners in facilitating and delivering services to you, process payments and your applications, communicate with you about products, services and promotional offers</string>
+    <string name="ewrtkf_b">b.Respond to queries, or requests submitted by you, and resolve your grievances/issues/problems with any services supplied to you</string>
+    <string name="ewrtkf_c">c.Administer or otherwise carry out our obligations in relation to any agreement with our business partners</string>
+    <string name="ewrtkf_d">d.Send you information about special promotions or offers. We might also tell you about new features or products/services. These might be our own offers or products/services, or third-party offers or products/services with whom Go Cash has a tie – up</string>
+    <string name="ewrtkf_e">e.Use your information for internal analysis and to provide you with location-based services, such as advertising, search results, and other personalized content</string>
+    <string name="ewrtkf_f">f.Use this information to improve our platform, prevent or detect fraud or abuses of our Website and enable third parties to carry out technical, logistical or other functions on our behalf. We may combine information we get from you with information about you we get from third parties</string>
+    <string name="ewrtkf_g">g.Send you notices, communications, and recommend services that might be of interest to you update our records and generally maintain your accounts with us, display content and customer reviews</string>
+
+    <string name="csekv_wp">USE OF YOUR DEVICE INFORMATION</string>
+    <string name="csekv_1">We use the information provided by You in the following ways:</string>
+    <string name="csekv_a">a.to establish identity and verify the same;</string>
+    <string name="csekv_b">b.monitor, improve and administer our Website / Platform;</string>
+    <string name="csekv_c">c.provide our service i.e. perform credit profiling for the purpose of facilitating loans to You.</string>
+    <string name="csekv_d">d.design and offer customized products and services offered by our third party financial partners;</string>
+    <string name="csekv_e">e.analyse how the Website is used, diagnose service or technical problems and maintain security;</string>
+    <string name="csekv_f">f.send communications notifications, information regarding the products or services requested by You or process queries and applications that You have made on the Website;</string>
+    <string name="csekv_g">g.manage Our relationship with You and inform You about other products or services We think You might find of some use;</string>
+    <string name="csekv_h">h.conduct data analysis in order to improve the Services / Products provided to the User;</string>
+    <string name="csekv_i">i.use the User information in order to comply with country laws and regulations;</string>
+    <string name="csekv_j">j.to conduct KYC for our third party lending partners based on the information shared by the User;</string>
+    <string name="csekv_k">k.use the User information in other ways permitted by law to enable You to take financial services from our lending partners.</string>
+    <string name="csekv_2">We will use and retain Your information for such periods as necessary to provide You the Services on our Website, to comply with our legal obligations, to resolve disputes, and enforce our agreements.</string>
+
+    <string name="s_skip">SKIP</string>
+    <string name="s_agree">AGREE AND \n CONTINUE</string>
+    <string name="permission_policy"><Data><![CDATA[I have read <font color="#007D7A">&lt;Privacy policy&gt;</font> carefully.]]></Data></string>
+
+    <string name="cnic_wp">LIMIT THE USE OR DISCLOSURE OF PERSONAL DATA</string>
+    <string name="cnic_ml_1">For the holder to exercise his right to limit the use or disclosure of personal data, but with the intention of continuing to use the services provided by the responsible, the user must express it by writing to the following email server@homecreditpk.com said writing must contain the following:</string>
+    <string name="cnic_ml_2">The name of the owner and email address where you receive the response.</string>
+    <string name="cnic_ml_3">Directed to the responsible and the privacy area of the responsible.</string>
+    <string name="cnic_ml_4">Customer or account registration, or any other reference to accredit your identity or the relationship you have with the responsible party.</string>
+    <string name="cnic_ml_5">The documents that prove the identity that will only be accepted credential to vote, passport, card of military service, immigration card, attached as an image to the mail by both sides that it is clear and legible.</string>
+    <string name="cnic_ml_6">If done through a representative, the identification of the representative and a power of attorney signed by two.</string>
+
+    <string name="wkg_pp">Privacy policy</string>
+    <string name="wkg_tcpp">Terms &#038; Conditions and Privacy policy</string>
+    <string name="wkg_tcpp2">I have read &#060;Terms &#038; Conditions&#062; and &#060;Privacy policy&#062; carefully.</string>
+
+    <string name="network_slow">The network is slow, please wait</string>
+    <string name="camera_btn_camera">Camera</string>
+    <string name="camera_btn_album">Album</string>
+    <string name="camera_btn_cancel">Cancel</string>
+
+    <string name="network_error">Network error</string>
+    <string name="reload_text">Reload</string>
+
+    <string name="per_text1">grievance redressal officer</string>
+    <string name="per_text2">email:</string>
+    <string name="per_text3">support@sarmayamf.com</string>
+    <string name="per_text4">phone:</string>
+    <string name="per_text5">+92 320 2814058</string>
+
+    <!-- 2023-05-25 -->
+    <string name="dcp_wp1">Data / Cookies</string>
+    <string name="dcp_ml1">We may set cookies to track your use of the App. These are used to enhance your experience with our App. We use cookies to help us identify who you are, so your login experience is smooth each time. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. The use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our App. By using the app, you signify your consent to our use of cookies. Please note that if you decline or delete these cookies, some parts of the App may not work properly.</string>
+    <string name="dcp_wp2">COLLECTION OF LOCATION</string>
+    <string name="dcp_ml2">We collect location information from your device to reduce the risk associated with your account.</string>
+    <string name="dcp_wp3">COLLECTION OF REFERENCE CONTACTS</string>
+    <string name="dcp_ml3">As a part of our loan journey, we require references from the loan applicant. In this regard, during filing the form on our app, we collect reference contacts from the applicant him/herself so that in case of non-availability of the loan applicant those references can be contacted. These contacts are willingly given by the loan applicant when the applicant is applying for the loan.</string>
+    <string name="dcp_wp4">DATA UPLOAD</string>
+    <string name="dcp_ml4">To better understand your identity and ensure that your users meet their credit needs. Therefore, before you submit your application, we need your authorization to collect "Contact" and "SMS" Information, and upload them to "https://Sarmayamf.com". We are committed to using secure data transfer protocols to encrypt data and ensure the security of information. Please feel free to use it. If you disagree, we will not perform this operation, and the application will not be able to provide normal service for you and exit the Application.</string>
+    <string name="dcp_wp5">COLLECTION OF INSTALLED APPLICATIONS</string>
+    <string name="dcp_ml5">We collect a list of the installed applications metadata information which includes the application name, package name, installed time, updated time, version name, and version code of each installed application on your device to assess your creditworthiness and enrich your profile with pre-approved customized loan offers.</string>
+    <string name="dcp_wp6"><Data><![CDATA[MEDIA & PHOTOS & FILES]]></Data></string>
+    <string name="dcp_ml6">Our App enables you to upload photos or documents to complete the application form during your loan application journey.</string>
+    <string name="dcp_wp7">STORAGE</string>
+    <string name="dcp_ml7">In order to complete the loan application successfully we require the storage information permission that allows the App to enable you to upload photos or documents.</string>
+    <string name="dcp_wp9">CAMERA</string>
+    <string name="dcp_ml9">We require the camera information permission to provide you with an easy/smooth experience and to enable you to click photos of your KYC documents along with other requisite documents and upload the same on the App during your loan application journey.</string>
+    <string name="dcp_wp10">CALENDAR INFORMATION</string>
+    <string name="dcp_ml10">We require calendar information so that you can set up a loan due date memo in the app after the loan, which will remind you to repay your loan on time. The calendar information will be uploaded to https://Sarmaya.pk. We will delete the calendar information after we have determined your risk profile.</string>
+    <string name="dcp_wp11">COLLECTION OF OTHER NON-PERSONAL INFORMATION</string>
+    <string name="dcp_ml11">We automatically track certain information about you based on your behavior on our Platform. We use this information to do internal research on our users\' demographics, interests, and behavior to understand better, protect and serve our users and improve our services. This information is compiled and analyzed on an aggregated basis. We also collect your Internet Protocol (IP) address and the URL used by you to connect your computer to the Internet, etc. This information may include the URL you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.Cookies are small data files that a Website stores on Your computer. We will use cookies on our Website like other lending websites/apps and online marketplace websites/apps. Use of this information helps Us identify You in order to make our Website more user-friendly. Most browsers will permit You to decline cookies but if You choose to do this it might affect service on some parts of Our Website If you choose to make a purchase through the Website, we collect information about your buying behavior. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we collect such information into a file specific to you.</string>
+    <string name="dcp_wp12">USE AND DISCLOSURE OF YOUR PERSONAL AND OTHER INFORMATION</string>
+    <string name="dcp_ml12">We access, store, and use the information we collect from to provide our Services, to research and develop new ones. We use personal information to provide the services you request, to customize your user experience, and to improve our services. To the extent we intend to use your personal information to market any product to you, we will provide you the ability to opt out of such uses.</string>
+    <string name="dcp_wp13">Security Information</string>
+    <string name="dcp_ml13">You can access your personal identity details on our App through your login and password. We recommend that you do not share your password with anyone. In addition, your personal details are stored on a secure server that only selected personnel contractors and authorized Agencies have access to. We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that your personal details are safe as it is transmitted to us. However, you understand and accept no data transmission over the Internet can be guaranteed to be completely secure. We cannot ensure or warrant the security of any information that you transmit to us and you do so at your own risk. Data pilferage due to unauthorized hacking, virus attacks, and technical is possible and we take no liabilities or responsibilities for it.</string>
+    <string name="dcp_wp14">Use and Disclosure of Your Personal and Other Information </string>
+    <string name="dcp_ml14">We access, store, and use the information we collect from to provide our Services, to research and develop new ones. We use personal information to provide the services you request, to customize your user experience, and to improve our services. To the extent we intend to use your personal information to market any product to you, we will provide you the ability to opt out of such uses.</string>
+    <string name="dcp_wp15">Privacy Policies of Third-Party Websites</string>
+    <string name="dcp_ml15">This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites/apps that may be accessible through this App have their own privacy policies and data collection, use, and disclosure practices. If you link to any such website, we urge you to review such website′s privacy policy. We are not responsible for the policies or practices of third parties.</string>
+    <string name="dcp_wp16">Policy Changes:</string>
+    <string name="dcp_ml16">We may update this Privacy Policy to reflect changes to our information practices to facilitate the borrowers/customers. You are encouraged to check this privacy policy on a regular basis to be aware of the changes made to it to secure your privacy. </string>
+</resources>

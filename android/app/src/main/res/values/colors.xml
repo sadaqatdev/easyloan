@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_700">#DBF2EB</color> <!--  -->
+    <color name="colorAccent">#02B17B</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_guide_bg">#02B17B</color>
+</resources>
